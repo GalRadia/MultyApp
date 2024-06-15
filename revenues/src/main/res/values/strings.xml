@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Revenues</string>
+    <string name="title">Revenues</string>
+    <string name="DB_name">DB_REVENUES</string>
+    <string name="table_name">TABLE_REVENUES</string>
+
+</resources>
